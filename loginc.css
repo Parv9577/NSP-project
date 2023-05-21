@@ -182,3 +182,18 @@ display: flex;
         color: #ffffff;
         box-shadow: inset 250px 0 0 0 #9b59b6;
         }
+
+        .back-button {
+            position: absolute;
+            top: 20px;
+            right: 50px;
+            padding: 10px;
+            background-color: #594add;
+            color: #fff;
+            border-radius: 5px;
+            text-decoration: none;
+          }
+          
+          .back-button:hover {
+            background-color: #555;
+          }
